@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Uncial+Antiqua&display=swap');
 
 :root {
     --bg-dark: #0b0c10;
@@ -9,12 +9,13 @@
 }
 
 body{
-    font-family:'Roboto', sans-serif;
+    font-family:'Unical Antiqua', serif;
+    font-size: 18px;
     background: var(--bg-dark);
     color: var(--text-light);
     margin: 0;
     padding: 0;
-    line-height: 1.6;
+    line-height: 1.7;
 }
 
 header{
